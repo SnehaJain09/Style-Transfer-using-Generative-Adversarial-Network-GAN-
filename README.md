@@ -15,3 +15,6 @@ Description of T1 & T2 image : https://www.radiologymasterclass.co.uk/tutorials/
 
 Type of GAN: Fashion GAN(Garment change on basis of selection on a model) , Gau GAN(Converting Sketch to abstract image), Style GAN ( (a) Neural Style Transfer or Complete Blending - Blending one image with another completely (b) Selective style transfer (Partial blending of two images)
 
+
+GANs or General Adversarial Networks are one of the coolest innovations in machine learning.  They are the types of generative models through which you can create new data points that can resemble the original data to such an extent that it can even fool the human eye.  They reach this level by combining two neural networks competing with each other. 
+
