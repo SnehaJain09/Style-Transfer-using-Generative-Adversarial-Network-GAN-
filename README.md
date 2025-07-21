@@ -8,3 +8,5 @@ However, gaining access to different imaging techniques is difficult and expensi
  
 
 Generative adversarial networks (GANs) provide the luxury of creating another type of MRI from the existing one. In this capstone, you will use a particular variant of GANs, called CycleGAN, to translate the style of one MRI image into another. This will help in gaining a better understanding and analysis of the scanned image. By using GANs, you will create T2 weighted images from T1 weighted MRI images and vice-versa.
+
+Problem Statement: Our goal in this capstone is to convert T1(Type 1) type MRI images into T2 (Type 2) type MRI images. This way we can create a revolutionary impact in the healthcare sector.
